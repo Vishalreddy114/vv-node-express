@@ -1,0 +1,26 @@
+{
+  "name": "vv-node-express",
+  "version": "1.0.0",
+  "description": "This application is to know more about node-express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishalreddy114/vv-node-express.git"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishalreddy114/vv-node-express/issues"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "homepage": "https://github.com/Vishalreddy114/vv-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
